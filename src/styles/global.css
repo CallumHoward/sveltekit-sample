@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+html,
+body {
+	height: 100%;
+}
+
+body {
+	background: #422d53;
+	margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+a,
+p,
+li {
+	color: #decff1;
+	font-family: 'VT323', monospace;
+	font-weight: normal;
+}
